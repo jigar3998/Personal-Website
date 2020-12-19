@@ -1,4 +1,4 @@
-# Personal Portfolio  
+# Personal Website  
 https://www.jigarmehta.tech/
 
 ## Features   
